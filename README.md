@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fa9566509
+- 👋 Hi, I’m Faizan @fa9566509
 - 👀 I’m interested in GoLang
 - 🌱 I’m currently learning GoLang
 
